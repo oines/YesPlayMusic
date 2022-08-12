@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/:match*",
+      "destination": "https://cloud.mclab.cc:30010/:match*"
+    }
+  ]
+}
